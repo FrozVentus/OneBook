@@ -767,6 +767,16 @@ Use case ends.
 +
 Use case resumes at step 2.
 
+[discrete]
+=== Use case: Help
+
+*MSS*
+
+1. User requests to see usage instructions
+2. AddressBook displays list of usage instructions
++
+Use case ends.
+
 {More to be added}
 
 [appendix]
