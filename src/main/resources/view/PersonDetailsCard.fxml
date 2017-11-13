@@ -7,7 +7,6 @@
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.layout.VBox?>
 
-<!-- @@author frozventus -->
 <StackPane alignment="TOP_LEFT" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <VBox fx:id="detailsPane" prefWidth="160.0">
